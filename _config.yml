@@ -12,10 +12,10 @@ linkedin_username: linkedin
 facebook_username: facebook
 
 # External API
-giscus_repo: "byanko55/jekyll-theme-satellite"
-giscus_repoId: "R_kgDOJ6fqWg"
+giscus_repo: "GamjaUser/GamjaUser.github.io"
+giscus_repoId: "R_kgDOQEVjhg"
 giscus_category: "Q&A"
-giscus_categoryId: "DIC_kwDOJ6fqWs4Cc7p7"
+giscus_categoryId: "DIC_kwDOQEVjhs4CwxVJ"
 goatcounter_code: gamjauser
 google_analytics:
 
